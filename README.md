@@ -2,7 +2,7 @@
 
 - Just typical simple mini database stuff...
 - Includes basic functions like adding, displaying, saving to file, deleting etc.
-- Everything was done in main cuz its a small program I'm using to practise working with files and user input verification
+- Everything was done in main because it's a small program I'm using to practise working with files and user input verification
 - More stuff to be added tho for future reference
 
 **TO DO:**
