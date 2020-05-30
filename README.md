@@ -11,4 +11,4 @@
 
 
 **COMPLETED:**
-- ~~Add save to file when user is exiting~~
+- ~~Add "save to file" when user is exiting~~
